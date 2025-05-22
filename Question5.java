@@ -54,7 +54,7 @@ class Student1{
 } 
 
 
-public class Main {
+public class Question5 {
     public static void main(String[] args) { 
         try { 
             Student student = new Student("John", 75, 110, 90); 
