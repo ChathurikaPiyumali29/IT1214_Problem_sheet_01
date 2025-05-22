@@ -57,7 +57,7 @@ class Classroom {
         }
     }
 
-class Main{
+class Question1{
     public static void main(String[] args) {
         Classroom classroom = new Classroom();
         
